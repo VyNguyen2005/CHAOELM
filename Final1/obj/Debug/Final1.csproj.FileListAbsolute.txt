@@ -1,0 +1,7 @@
+D:\Chapter1\Final1\bin\Debug\Final1.exe.config
+D:\Chapter1\Final1\bin\Debug\Final1.exe
+D:\Chapter1\Final1\bin\Debug\Final1.pdb
+D:\Chapter1\Final1\obj\Debug\Final1.csproj.AssemblyReference.cache
+D:\Chapter1\Final1\obj\Debug\Final1.csproj.CoreCompileInputs.cache
+D:\Chapter1\Final1\obj\Debug\Final1.exe
+D:\Chapter1\Final1\obj\Debug\Final1.pdb
